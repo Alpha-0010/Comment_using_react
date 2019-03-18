@@ -1,0 +1,2 @@
+// Use this command for getting the fake images of the users 
+npm install --save faker 
